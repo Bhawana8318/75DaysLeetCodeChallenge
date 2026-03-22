@@ -34,6 +34,7 @@
 | [0049-group-anagrams](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
+| [1903-largest-odd-number-in-string](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -64,4 +65,12 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+## Math
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
+## Greedy
+|  |
+| ------- |
+| [1903-largest-odd-number-in-string](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/1903-largest-odd-number-in-string) |
 <!---LeetCode Topics End-->
