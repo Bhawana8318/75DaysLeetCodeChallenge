@@ -16,6 +16,7 @@
 | [0238-product-of-array-except-self](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Hash Table
 |  |
@@ -27,6 +28,7 @@
 | [0217-contains-duplicate](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 ## Sorting
 |  |
@@ -37,6 +39,7 @@
 | [0217-contains-duplicate](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## String
 |  |
 | ------- |
@@ -80,6 +83,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0125-valid-palindrome](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0125-valid-palindrome) |
 | [0283-move-zeroes](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0283-move-zeroes) |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 ## Math
 |  |
 | ------- |
@@ -101,4 +105,8 @@
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0003-longest-substring-without-repeating-characters) |
+## Binary Search
+|  |
+| ------- |
+| [0349-intersection-of-two-arrays](https://github.com/Bhawana8318/75DaysLeetCodeChallenge/tree/master/0349-intersection-of-two-arrays) |
 <!---LeetCode Topics End-->
